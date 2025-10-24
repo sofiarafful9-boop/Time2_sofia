@@ -1,0 +1,55 @@
+body{
+    background-color:black
+}
+h1{
+    color: yellow;
+    margin-left: 10px;
+}
+h2{
+    color:yellow;
+    margin-left:10px;
+}
+h3{
+    color:yellow;
+    margin-left:10px;
+}
+.resumo{
+    color:blue
+}
+#sumario {
+    color: #FFFFFF;
+    margin-left: 10px;
+}
+#texto{
+    color:white
+}
+.navegacao{
+    background-color: blue;
+    color: white;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.lista{
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    font-family:Orbitron;
+}
+h2{
+    text-align: center;
+    font-family:Orbitron;
+}
+h3{
+    text-align: center;
+    font-family:Orbitron;
+}
+body{
+    text-align: center;
+}
+footer{
+    background-color: orange;
+}
