@@ -24,4 +24,6 @@ urlpatterns = [
     path("admin/", admin.site.urls),
     path("", views.home, name="home"),
     path('curriculo/', include('curriculo.urls')),
+    path('accounts/', include('django.contrib.auth.urls')),  # Include authentication URLs
+
 ]
